@@ -1,0 +1,38 @@
+@charset "UTF-8"
+
+/* Grid Container */
+.Grid{
+    display: grid;
+}
+
+.Grid-template-columns {
+    grid-template-columns: 600px 600px;
+}
+
+/* Estlos Gerais */
+.item {
+    margin: 10px;
+    background: rgb(233, 233, 7);
+    text-align: center;
+    font-size: 1.5em;
+}
+.Grid {
+      max-width: 120px;
+      margin: 0 auto;
+      border: 5px solid rgb(22, 22, 230);
+}
+h1{
+    text-align: center;
+    font-size: 1.25em;
+    font-weight: normal;
+}
+body{
+    font-family: monospace;
+    color: #000000;
+    margin: 0px;
+    padding-bottom: 60px;
+}
+
+body > div {
+    padding: 40px 0;
+}

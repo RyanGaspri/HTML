@@ -1,12 +1,79 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Diferenças entre C++, C# e Java</title>
+    <style>
+.Grid{
+    display: grid;
+}
+.Grid-template-columns {
+    grid-template-columns: 600px 600px;
+}
+
+/* Estlos Gerais */
+.item {
+    margin: 10px;
+    background: rgb(233, 233, 7);
+    text-align: center;
+    font-size: 1.5em;
+}
+.Grid {
+      max-width: 120px;
+      margin: 0 auto;
+      border: 5px solid rgb(22, 22, 230);
+}
+h1{
+    text-align: center;
+    font-size: 1.25em;
+    font-weight: normal;
+    color: blanchedalmond;
+}
+body{
+    font-family: monospace;
+    background-color: black;
+    margin: 0px;
+    padding-bottom: 60px;
+}
+body > div {
+    padding: 40px 0;
+}
+img{
+    width: 400px;
+    height: 500px;
+}
+p{
+    color: rgb(3, 2, 1);
+}
+    </style>
 </head>
 <body>
-    
+    <div>
+    <h1>Diferenças entre C++, java, C#</h1>
+    <section class="container grid grid-template-columns">
+        <div class="item">1 
+          <p>
+            O C++ é uma linguagem criada para ser tão eficiente quanto o C, porém com novas funções. É uma linguagem que suporta múltiplos paradigmas <br>
+             A linguagem da liberdade para o programador escolher as opções, mesmo sendo a opção errada.</p>
+             <img src="C++ LOGO.jpg" alt="">
+             <p>Muitos códigos podem ser transferidos para C facilmente, pois o C++ foi criado para ter compatibilidade com o C.</p>
+        </div>
+        <div class="item">2
+            <p>O C# (leia-se C-Sharp), é uma linguagem de programação orientada a objetos, que foi desenvolvida pela Microsoft e faz parte da plataforma.NET. Embora a linguagem C# tenha sido criada do zero, 
+                foi baseada na linguagem C++ e tem muitos elementos da linguagem Pascal e Java.</p>
+                <img src="c-sharp-c-logo.png" alt="">
+                <p>A plataforma .NET teve suas bibliotecas inicialmente feitas em Simple Managed C (SMC), porém esta limitou muito o trabalho na plataforma. 
+                    No inicio de 1999 foi montada uma equipe, liderada por Anders Hejlsberg, com o objetivo de criar uma nova linguagem para a plataforma .NET. </p>
+        </div>
+        <div class="item">3
+            <p>A linguagem Java deriva da linguagem C, portanto suas regras de sintaxe assemelham-se às regras de C. Por exemplo, os blocos de códigos são modularizados em métodos e delimitados por chaves ( { e }) 
+                e variáveis são declaradas antes que sejam usadas. Estruturalmente, a linguagem Java começa com pacotes.</p>
+                <img src="java logo.jpg" alt="">
+                <p>ava é uma linguagem de programação orientada a objetos desenvolvida na década de 90 por uma equipe de programadores chefiada por James Gosling, na empresa Sun Microsystems. 
+                    Em 2008 o Java foi adquirido pela empresa Oracle Corporation. </p>
+        </div>
+    </div>
 </body>
 </html>
