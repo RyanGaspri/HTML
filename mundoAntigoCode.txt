@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>As sete maravilhas do mundo antigo</title>
+    <style>
+        body
+        {
+            background-color: rgb(10, 17, 2);
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        }
+        h1
+        {
+            color: rgb(123, 228, 18);
+        }
+        h2
+        {
+            color: rgb(13, 196, 196);
+        }
+        img
+        {
+            width: 500px;
+            height: 400px;
+        }
+        div
+        {
+            display: inline-block;
+        }
+        p
+        {
+            font-family: Arial, Helvetica, sans-serif;
+            color: rgb(253, 253, 253);
+            font-size: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1 align = "center">As sete maravilhas do mundo antigo</h1>
+
+    
+    <div>
+    <h2>As piramides de gizé</h2>
+    <img src="piramides.jpg" alt="">
+    <p>
+        As Pirâmides do Egito, localizadas na Necrópole de Gizé, são túmulos de pedra construídos durante o período antigo, <br> 
+        próximo a cidade do Cairo, no Egito. Foram erigidos para abrigar os corpos dos reis do Egito Antigo, os faraós.
+    </p>
+    </div>
+    
+    
+    <div>
+    <h2>Jardins suspensos da Babilonia</h2>
+    <img src="jardins suspensos.jpg" alt="">
+    <p>Os Jardins Suspensos foram construídos na Babilônia a mando do rei Nabucodonosor, no século VI a.C., tornando-se uma das principais <br> 
+        obras arquitetônicas empreendidas pelo monarca durante seu reinado pela Mesopotâmia. </p>
+    </div>
+
+    <div>
+    <h2>Estátua de Zeus em Olímpia</h2>
+    <img src="567e09aeec8cb-as-sete-maravilhas-do-mundo-antigo.jpg" alt="">
+    <p>Durante o período da Grécia antiga foi erigida uma estátua na cidade de Olímpia para o senhor dos deuses e dos homens <br> 
+     que habitava o Monte Olimpo: Zeus.</p>
+    </div>
+
+    <div>
+    <h2>Colosso de Rodes</h2>
+    <img src="colosso de rodes.jpg" alt="">
+    <p>Imensa Estátua do Deus grego do Sol, Hélio, construída entre 292 a.C. e 280 a.C. pelo escultor grego Carés de Lindos, <br> 
+    na Ásia Menor mais precisamente na ilha de Rodes (Grécia), no mar Egeu. A estátua foi feita de bronze, possuía cerca de 30 metros de altura e pesava 70 toneladas.</p>
+    </div>
+
+    <div>
+    <h2>Templo de Diana</h2>
+    <img src="templo.jpg" alt="">
+    <p>Também conhecido como o "Templo de Ártemis" em Éfeso (atual Turquia), é considerado o maior templo da antiguidade. <br> 
+        Esse templo majestoso foi erigido no ano de 550 a.C. <br> 
+         em nome da deusa romana da lua, da caça e da castidade Diana (Deusa grega Ártemis).</p>
+    </div>
+
+    <div>
+    <h2>Mausoléu de Halicarnasso</h2>
+    <img src="mausoleu.jpg" alt="">
+    <p>Grande túmulo construído no ano de 353 a.C. para o Rei Persa chamado Mausolo. Foi desenhada pelos arquitetos Sátiro e Pítis <br> 
+     e os escultores Briáxis, Escopas de Paros, Leocarés e Timóteo.</p>
+    </div>
+
+    <div>
+    <h2>Farol de Alexandria</h2>
+    <img src="farol.jpg" alt="">
+    <p>Construído pelo arquiteto grego Sóstrato de Cnido, por volta de 250 a.C. o Farol de Alexandria está localizado na Ilha de Faro em Alexandria, <br> 
+    no Egito. Feito de mármore, possuía cerca de 150 metros de altura e servia de auxílio para as embarcações.</p>
+    </div>
+
+     </div>
+    
+    
+
+    
+</body>
+</html>
